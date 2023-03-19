@@ -1,0 +1,8 @@
+D:\C#\Prcatice\String-Manipulation\String-Manipulation\obj\Debug\String-Manipulation.csproj.AssemblyReference.cache
+D:\C#\Prcatice\String-Manipulation\String-Manipulation\obj\Debug\String-Manipulation.csproj.SuggestedBindingRedirects.cache
+D:\C#\Prcatice\String-Manipulation\String-Manipulation\obj\Debug\String-Manipulation.csproj.CoreCompileInputs.cache
+D:\C#\Prcatice\String-Manipulation\String-Manipulation\bin\Debug\String-Manipulation.exe.config
+D:\C#\Prcatice\String-Manipulation\String-Manipulation\bin\Debug\String-Manipulation.exe
+D:\C#\Prcatice\String-Manipulation\String-Manipulation\bin\Debug\String-Manipulation.pdb
+D:\C#\Prcatice\String-Manipulation\String-Manipulation\obj\Debug\String-Manipulation.exe
+D:\C#\Prcatice\String-Manipulation\String-Manipulation\obj\Debug\String-Manipulation.pdb
